@@ -52,8 +52,7 @@ FURTHER IMPROVEMENTS
 
  
 
-I plan to further improve this script by accessing a third API, the TomTom traffic API (https://developer.tomtom.com/), to provide traffic updates for the Orwell Bridge.
-I also plan to host this script on a website, with a visualised traffic light system to make the information easier to digest
+
 
  
 
@@ -62,6 +61,4 @@ REFERENCES
 
  
 
-- https://developer.twitter.com/en/docs/twitter-api
-- https://openweathermap.org/current
-- https://highwaysengland.co.uk/travel-updates/the-orwell-bridge/
+
