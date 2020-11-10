@@ -19,23 +19,32 @@ For the scripts to work, the following libraries are required;
 
 
 
-import time
-import Navigation_YouTube
-import Navigation_Twitter
-import Navigation_W3Schools
-import smtplib
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
-import sys
-import requests
-import urllib
-import PytoHTML
-import PytoHTML_failed
-from selenium import webdriver
-import selenium
-import slack
-import os
+For the following script to work you will need to install these required libraries;
 
+ 
+  time
+	 smtplib
+	 email.mime.text
+	 email.mime.multipart
+	 sys
+	 requests
+	 os
+
+ 
+
+All of these libraries are included as part of the standard python 3.9.0 libraries.
+
+ 
+
+You will also need to pip install the following libraries
+
+ 
+
+
+	
+ - urllib https://docs.python.org/3/library/urllib.html
+	- selenium https://seleniumpython.readthedocs.io/
+	- slack https://api.slack.com/tools
  
 
 HOW TO USE
@@ -43,7 +52,7 @@ HOW TO USE
 
  
 
-It is quite a complicated set of scripts to get your head around, but as long as you just stick to the main script "master_smoke", you should be fine.  You need to open master_smoke, which will have all the other scripts functions called within it.  You can change line 27 and 30 to be commented/uncommented, which will switch it between all passed results or a failed one within the W3 table. 
+It is quite a complicated set of scripts to get your head around, but as long as you just stick to the main script "master_smoke", you should be fine.  You need to open master_smoke, which will have all the other scripts functions called within it.  You can change line 27 and 30 to be commented/uncommented, which will switch it between all passed results or a failed one within the W3 table. This way you can see the Failed_HTML table aswell.
 
  
 
@@ -52,7 +61,7 @@ FURTHER IMPROVEMENTS
 
  
 
-
+I will need to change
 
  
 
