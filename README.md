@@ -62,9 +62,9 @@ REFERENCES
 
  
 
-PyPI. 2020. Selenium. [online] Available at: <https://pypi.org/project/selenium/> [Accessed 10 November 2020].
+- PyPI. 2020. Selenium. [online] Available at: <https://pypi.org/project/selenium/> [Accessed 10 November 2020].
 
-Selenium-python.readthedocs.io. 2020. 7. Webdriver API — Selenium Python Bindings 2 Documentation. [online] Available at: <https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.keys> [Accessed 10 November 2020].
+- Selenium-python.readthedocs.io. 2020. 7. Webdriver API — Selenium Python Bindings 2 Documentation. [online] Available at: <https://selenium-python.readthedocs.io/api.html#module-selenium.webdriver.common.keys> [Accessed 10 November 2020].
 
-Slack. 2020. Tutorials About "Python". [online] Available at: <https://api.slack.com/tutorials/tags/python> [Accessed 10 November 2020].
+- Slack. 2020. Tutorials About "Python". [online] Available at: <https://api.slack.com/tutorials/tags/python> [Accessed 10 November 2020].
 
