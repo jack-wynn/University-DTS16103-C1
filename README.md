@@ -22,13 +22,13 @@ For the scripts to work, the following libraries are required;
 For the following script to work you will need to install these required libraries;
 
  
-  time
-	 smtplib
-	 email.mime.text
-	 email.mime.multipart
-	 sys
-	 requests
-	 os
+-	time
+-	smtplib
+-	email.mime.text
+-	email.mime.multipart
+-	sys
+-	requests
+-	os
 
  
 
@@ -42,9 +42,9 @@ You will also need to pip install the following libraries
 
 
 	
- - urllib https://docs.python.org/3/library/urllib.html
-	- selenium https://seleniumpython.readthedocs.io/
-	- slack https://api.slack.com/tools
+- urllib https://docs.python.org/3/library/urllib.html
+- selenium https://seleniumpython.readthedocs.io/
+- slack https://api.slack.com/tools
  
 
 HOW TO USE
